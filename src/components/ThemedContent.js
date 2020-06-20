@@ -23,9 +23,9 @@ const ThemedContent = () => {
               >
                   <Router>
                     <Home path='/' /> 
-                    <Test path='/test' /> */}
+                    <Test path='/test' /> 
                     <Themer path='/themer' />
-                 </Router>
+                 </Router> 
             </div>
     </React.Fragment>
     )
